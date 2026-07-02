@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Wake by Volume</string>
+    <string name="status_running">Đang chạy</string>
+    <string name="status_stopped">Đang tắt</string>
+    <string name="btn_start">Bật</string>
+    <string name="btn_stop">Tắt</string>
+    <string name="btn_battery">Bỏ qua tối ưu pin</string>
+    <string name="battery_settings_error">Không mở được cài đặt pin trên máy này</string>
+    <string name="hint_text">Khi bật, nhấn phím Volume lúc màn hình tắt sẽ đánh thức màn hình.</string>
+    <string name="notification_channel_name">Wake by Volume</string>
+    <string name="notification_title">Wake by Volume đang chạy</string>
+    <string name="notification_text">Nhấn phím âm lượng để bật màn hình</string>
+</resources>
